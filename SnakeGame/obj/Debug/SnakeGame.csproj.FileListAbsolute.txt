@@ -1,0 +1,12 @@
+D:\Visual Studio Tasks\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\Visual Studio Tasks\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\Visual Studio Tasks\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\Visual Studio Tasks\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+D:\Visual Studio Tasks\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\Visual Studio Tasks\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
+E:\Visual Studio Tasks\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+E:\Visual Studio Tasks\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+E:\Visual Studio Tasks\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+E:\Visual Studio Tasks\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+E:\Visual Studio Tasks\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+E:\Visual Studio Tasks\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
